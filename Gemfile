@@ -29,7 +29,8 @@ gem 'simple_form', '~> 3.1.0'
 gem 'paperclip', '~> 4.2.1'
 gem 'devise', '~> 3.4.1'
 gem 'acts_as_votable', '~> 0.10.0'
-
+gem 'rails_12factor', '~> 0.0.3'
+gem 'aws-sdk', '~> 1.61.0'
 
 
 # bundle exec rake doc:rails generates the API under doc/api.
